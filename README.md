@@ -8,7 +8,7 @@
 
 
   ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ReeyaSharma&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Reeya0409&show_icons=true&theme=github_dark)
 
 
 ### 🚀 Projects
@@ -16,7 +16,7 @@
 - 🏫 College Management System (PHP)
 
 ## 💻 Tech Stack Overview
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReeyaSharma&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reeya0409&layout=compact&theme=dark)
 
 
 ### 🛠️ Skills
@@ -31,4 +31,4 @@
 
 
 ## Visitor Count
-![Profile Views](https://komarev.com/ghpvc/?username=ReeyaSharma&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Reeya0409&color=blue)
