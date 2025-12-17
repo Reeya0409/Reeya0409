@@ -7,10 +7,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning+AI+%26+ML;Exploring+Web+Development;Building+Real+World+Projects&center=true&width=500&height=50)
 
 
-  ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Reeya0409&show_icons=true&theme=github_dark)
-
-
 ### 🚀 Projects
 - 🔥 Smoke Detection System (Arduino + ESP + Blynk)
 - 🏫 College Management System (PHP)
