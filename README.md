@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Reeya Sharma  
 
-<!--
-**Reeya0409/Reeya0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🤖 Interested in AI/ML, IoT & Web Development  
+🔥 Built projects using Arduino, ESP, Blynk, Python & Java  
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Enthusiast;IoT+Developer;Open+Source+Contributor&center=true&width=500&height=50)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🔥 Smoke Detection System (Arduino + ESP + Blynk)
+- 🏫 College Management System (PHP)
+
+### 🛠️ Skills
+- **Languages:** Java, Python, C
+- **Web:** HTML, CSS, JavaScript, PHP, Bootstrap
+- **Databases & Tools:** MySQL, XAMPP, Git, GitHub, Arduino IDE
+- **Concepts:** ML Basics, Computer Vision
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/reeyaasharma494
+- Email: reeyasharma0904@gmail.com
+
+  ![Visitor Count](https://profile-counter.glitch.me/Reeya0409/count.svg)
