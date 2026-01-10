@@ -13,7 +13,7 @@
 
 ## 💻 Tech Stack Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reeya&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reeya0409&layout=compact&theme=dark)
 
 ### 🛠️ Skills
 - **Languages:** Java, Python, C
