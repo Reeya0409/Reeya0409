@@ -15,11 +15,13 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,html,css,js,mysql,arduino" />
 </p>
+
 ### 🛠️ Skills
-- **Languages:** Java, Python, C, C++
-- **Web:** HTML, CSS, JavaScript, PHP, Bootstrap
-- **Databases & Tools:** MySQL, XAMPP, Git, GitHub, Arduino IDE
-- **Concepts:** ML Basics, Computer Vision
+
+- **Languages:** Java, Python, C, C++  
+- **Web:** HTML, CSS, JavaScript, PHP, Bootstrap  
+- **Databases & Tools:** MySQL, XAMPP, Git, GitHub, Arduino IDE  
+- **Concepts:** ML Basics, Computer Vision  
 
 ### 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/reeyaasharma494
