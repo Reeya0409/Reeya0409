@@ -13,10 +13,10 @@
 
 ## 💻 Tech Stack Overview
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,c++,php,html,css,js,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,html,css,js,mysql,arduino" />
 </p>
 ### 🛠️ Skills
-- **Languages:** Java, Python, C
+- **Languages:** Java, Python, C, C++
 - **Web:** HTML, CSS, JavaScript, PHP, Bootstrap
 - **Databases & Tools:** MySQL, XAMPP, Git, GitHub, Arduino IDE
 - **Concepts:** ML Basics, Computer Vision
