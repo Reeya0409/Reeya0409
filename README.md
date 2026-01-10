@@ -12,9 +12,9 @@
 - 🏫 College Management System (PHP)
 
 ## 💻 Tech Stack Overview
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reeya0409&layout=compact&theme=dark)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,c++,php,html,css,js,mysql,arduino" />
+</p>
 ### 🛠️ Skills
 - **Languages:** Java, Python, C
 - **Web:** HTML, CSS, JavaScript, PHP, Bootstrap
