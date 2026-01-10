@@ -12,10 +12,8 @@
 - 🏫 College Management System (PHP)
 
 ## 💻 Tech Stack Overview
-### 📊 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeya0409&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400" />
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reeya&layout=compact&theme=dark)
 
 ### 🛠️ Skills
 - **Languages:** Java, Python, C
