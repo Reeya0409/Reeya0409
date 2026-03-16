@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,8 +20,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy snake
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          branch: output
-          folder: dist
+          target_branch: output
+          build_dir: dist
