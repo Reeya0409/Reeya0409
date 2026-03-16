@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://reeya0409.github.io/reeya-sharma-portfolio/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
 
@@ -62,12 +62,6 @@
 ### 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/reeyaasharma494
 - Email: reeyasharma0904@gmail.com
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Reeya0409/Reeya0409/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
