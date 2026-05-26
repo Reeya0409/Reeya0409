@@ -29,9 +29,10 @@
 ### 🚀 Projects
 
 - 🌐 Personal Portfolio Website (HTML, CSS, JavaScript)   
-- 🔥 Smoke Detection System (Arduino + ESP + Blynk)
-- 🛍 GlowHaven – E-commerce Website (PHP + MySQL)   
-- 🏫 College Management System (PHP + MySQL)
+- 💳 AI-Powered Credit Card Fraud Detection System (Python, Scikit-learn, Streamlit, SMOTE)   
+- 🔥 Smoke Detection System (Arduino + ESP + Blynk)   
+- 🛍 GlowHaven – E-commerce Website (PHP + MySQL)      
+- 🏫 College Management System (PHP + MySQL)   
 
 ---
 
